@@ -1,17 +1,14 @@
  .u-section-1 {
-  background-image: url("images/Screenshot2021-11-27at2.13.36PM.png");
-  background-position: 94.06% 0%;
-}
-
-.u-section-1 .u-sheet-1 {
+  background-image: url("images/WhatsAppImage2021-11-27at5.17.48PM.jpeg");
+  background-position: 50% 21.21%;
   min-height: 1035px;
 }
 
 .u-section-1 .u-group-1 {
-  width: 468px;
+  width: calc(((100% - 1140px) / 2) + 388px);
   min-height: 638px;
   height: auto;
-  margin: 60px 0 60px auto;
+  margin: 10px auto 60px 0;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -44,13 +41,12 @@
 @media (max-width: 1199px) {
    .u-section-1 {
     background-position: 57.15% 0%;
-  }
-
-  .u-section-1 .u-sheet-1 {
-    min-height: 456px;
+    min-height: 906px;
   }
 
   .u-section-1 .u-group-1 {
+    width: calc(((100% - 940px) / 2) + 418px);
+    min-height: 907px;
     margin-top: 0;
     margin-bottom: 0;
     height: auto;
@@ -66,8 +62,13 @@
 }
 
 @media (max-width: 991px) {
-  .u-section-1 .u-sheet-1 {
+   .u-section-1 {
     min-height: 576px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: calc(((100% - 720px) / 2) + 418px);
+    margin-left: calc(((100% - 1140px) / 2) + 130px);
   }
 
   .u-section-1 .u-text-2 {
@@ -80,6 +81,11 @@
 }
 
 @media (max-width: 767px) {
+  .u-section-1 .u-group-1 {
+    width: calc(((100% - 540px) / 2) + 418px);
+    margin-left: calc(((100% - 1140px) / 2) + 220px);
+  }
+
   .u-section-1 .u-text-2 {
     font-size: 1.875rem;
   }
@@ -97,9 +103,8 @@
   .u-section-1 .u-group-1 {
     width: 281px;
     min-height: 408px;
-    margin-top: 18px;
-    margin-right: -89px;
     margin-bottom: 60px;
+    margin-left: calc(((100% - 340px) / 2) + -86px);
   }
 
   .u-section-1 .u-container-layout-1 {
@@ -1030,24 +1035,6 @@
 }
 
 .u-section-6 .u-over-slide-4 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
-  padding: 20px;
-}
-
-.u-section-6 .u-gallery-item-5 {
-  margin-right: 10px;
-}
-
-.u-section-6 .u-over-slide-5 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
-  padding: 20px;
-}
-
-.u-section-6 .u-gallery-item-6 {
-  margin-right: 10px;
-}
-
-.u-section-6 .u-over-slide-6 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
   padding: 20px;
 }

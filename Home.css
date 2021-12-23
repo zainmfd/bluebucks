@@ -101,10 +101,10 @@
   }
 
   .u-section-1 .u-group-1 {
-    width: 281px;
+    width: calc(((100% - 340px) / 2) + 231px);
     min-height: 408px;
     margin-bottom: 60px;
-    margin-left: calc(((100% - 340px) / 2) + -86px);
+    margin-left: 0;
   }
 
   .u-section-1 .u-container-layout-1 {

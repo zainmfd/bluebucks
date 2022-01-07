@@ -34719,7 +34719,6 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-footer .u-position-1 {
   min-height: 101px;
-  height: auto;
   margin: 0 69px 0 -9px;
 }
 
@@ -34800,6 +34799,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-position-1 {
+    height: auto;
     margin-right: 0;
     margin-left: 0;
   }

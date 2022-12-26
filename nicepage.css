@@ -34665,23 +34665,23 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-image-1 {
-    width: 57px;
-    height: 54px;
+    width: 39px;
+    height: 38px;
     margin-top: 0;
   }
 
   .u-header .u-menu-1 {
-    margin-top: -43px;
+    margin-top: -26px;
     margin-right: calc(((100% - 720px) / 2) + -36px);
   }
 }
 @media (max-width: 767px) {
   .u-header .u-image-1 {
-    width: 57px;
+    width: 39px;
   }
 
   .u-header .u-menu-1 {
-    margin-top: -43px;
+    margin-top: -26px;
     margin-right: calc(((100% - 540px) / 2) + -39px);
   }
 }
